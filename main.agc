@@ -1,6 +1,6 @@
 
-// Project: simon grellneth test animation 
-// Created: 2021-09-14
+
+
 
 // show all errors
 
